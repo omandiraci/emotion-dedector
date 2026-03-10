@@ -36,7 +36,7 @@ Gerçek zamanlı yüz duygu analizi uygulaması. Kameradan aldığı görüntüd
 
 ```bash
 # Projeyi klonla
-git clone https://github.com/KULLANICI_ADIN/emotion-detector.git
+git clone https://github.com/omandiraci/emotion-dedector.git
 cd emotion-detector
 
 # Sanal ortam oluştur ve aktif et
